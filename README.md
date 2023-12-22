@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Harishraja2004
+- 👋 Hi, I’m @Harishraja H
 - 👀 I’m interested in app development 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on cyber security
-- 📫 How to reach me ...
 
 <!---
 Harishraja2004/Harishraja2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
